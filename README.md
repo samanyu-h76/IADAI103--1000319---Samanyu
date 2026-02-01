@@ -57,13 +57,13 @@ Home Dashboard
 ![Home Dashboard](Screenshots/home.png)
 
 ### Mood Logging
-![Mood Logging](Screenshots/mood_loging.png)
+![Mood Logging](Screenshots/mood loging.png)
 
 ### Screen-Time Input
-![Screen-Time Input](Screenshots/screen_input_time.png)
+![Screen-Time Input](Screenshots/screen input time.png)
 
 ### AI Detox Planner
-![AI Detox Planner](Screenshots/detox_planner.png)
+![AI Detox Planner](Screenshots/detox planner.png)
 
 ### Gratitude Journal
 ![Gratitude Journal](Screenshots/journal.png)
