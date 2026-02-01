@@ -54,22 +54,22 @@ Home Dashboard
 ## Screenshots
 
 ### Home / Dashboard
-![Home Dashboard](screenshots/home.png)
+![Home Dashboard](Screenshots/home.png)
 
 ### Mood Logging
-![Mood Logging](screenshots/mood_logging.png)
+![Mood Logging](Screenshots/mood_loging.png)
 
 ### Screen-Time Input
-![Screen-Time Input](screenshots/screen_time.png)
+![Screen-Time Input](Screenshots/screen_input_time.png)
 
 ### AI Detox Planner
-![AI Detox Planner](screenshots/detox_planner.png)
+![AI Detox Planner](Screenshots/detox_planner.png)
 
 ### Gratitude Journal
-![Gratitude Journal](screenshots/gratitude_journal.png)
+![Gratitude Journal](Screenshots/journal.png)
 
 ### Habit Tracker & Rewards
-![Habit Tracker](screenshots/habit_tracker.png)
+![Habit Tracker](Screenshots/rewards.png)
 
 > 📌 Replace the image paths above with your actual screenshot file names.
 
