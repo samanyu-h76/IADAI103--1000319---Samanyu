@@ -71,7 +71,6 @@ Home Dashboard
 ### Habit Tracker & Rewards
 ![Habit Tracker](Screenshots/rewards.png)
 
-> 📌 Replace the image paths above with your actual screenshot file names.
 
 ---
 
