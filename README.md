@@ -95,8 +95,10 @@ The prototype was tested with a small group of users. Feedback highlighted that 
 ---
 
 ## Figma Prototype Link
-👉 **[https://www.figma.com/proto/muS8QUr7V4LmeMR5t5HJSL/AI-SA-Unit-3-Y2--Hi-fi?page-id=0%3A1&node-id=1-2&p=f&viewport=423%2C313%2C0.29&t=ggHBxDkPVXN5Cpoq-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2]**
+**[https://www.figma.com/proto/muS8QUr7V4LmeMR5t5HJSL/AI-SA-Unit-3-Y2--Hi-fi?page-id=0%3A1&node-id=1-2&p=f&viewport=423%2C313%2C0.29&t=ggHBxDkPVXN5Cpoq-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2]**
 
+## Survey Form Responses Link
+**[https://docs.google.com/forms/d/1x1DiqbxHQ5mihoa-oJaO7-SzVnFJQf2dqtqqwVDh7fY/edit#responses]**
 ---
 
 ## Author
